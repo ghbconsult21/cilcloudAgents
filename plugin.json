@@ -1,0 +1,11 @@
+{
+  "name": "cicloud-agents",
+  "displayName": "CICLOUD Agents",
+  "version": "1.0.0",
+  "description": "Orquestador, subagentes especializados (backend, frontend, móvil, BD, seguridad, QA), skills multi-repo y reglas de eficiencia de tokens para el ecosistema CICLOUD.",
+  "suggestedPrompts": [
+    "Orquesta una nueva funcionalidad full-stack en CicloudBE, CIcloudFEAngular y cicloud_movil",
+    "Audita la seguridad y multitenencia (Institucion/JWT) de los últimos cambios en CicloudBE",
+    "Sincroniza los DTOs y contratos API entre CicloudBE, Angular y móvil"
+  ]
+}
